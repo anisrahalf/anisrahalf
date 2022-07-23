@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Anis Rahal Filho 👋
 
-- 🔭 Programador Fullstack em treinamento
+- 🔭 Desenvolvedor Front-end em treinamento
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas
 - 📫 Contate-me no email: anisrahalf@gmail.com
 
